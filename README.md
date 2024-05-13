@@ -2,7 +2,7 @@
 
 This project provides a Python interface for controlling and acquiring data from an Extorr Residual Gas Analyzer (RGA). The interface uses the Extorr software's built-in ActiveX automation server to communicate with the RGA.
 
-For questions or feature requests, please contact 0xtachi@gmail.com. As an independent researcher, I built this project purely for the joy of creating something both enjoyable and practical. If you love to tinker and build innovative control systems, feel free to email me!
+For questions or feature requests, please contact Jephthah Akene (Tachi) at tachi@playgrounds.network. As an independent researcher, I built this project purely for the joy of creating something both enjoyable and practical. If you love to tinker and build innovative control systems, feel free to email me!
 
 # Table of Contents
 
